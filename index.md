@@ -1,3 +1,7 @@
+![プロフィール画像](yy.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O55QnL9rM0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # About
 簡単な自己紹介やアピール。
 どんなことができる、したいのか。
@@ -6,39 +10,3 @@
 - 名前（ハンドルネームも可）
 - 所在地（県や市まででOK）
 - 得意領域（Web開発、サーバー運用など）
-
-![プロフィール画像](yy.jpg)
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-**見出し**
-
-# 見出し1
-## 見出し2
-### 見出し3
-本文です
-
-**改行**
-
-改行されない文章です
-改行されない文章です
-
-改行された文章です
-改行された文章です
-
-段落です
-
-**リンク**
-
-[リンクです](https://www.google.com/)
-
-**リスト**
-
-順序なしリスト
-- 要素1
-- 要素2
-- 要素3
-順序つきリスト
-1. 要素1
-1. 要素2
-1. 要素3
