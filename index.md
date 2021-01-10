@@ -1,6 +1,6 @@
 ![プロフィール画像](yy.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O55QnL9rM0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm31067084/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm31067084">ヨルシカ /「靴の花火」(Music Video)</a></noscript>
 
 # About
 簡単な自己紹介やアピール。
